@@ -1,4 +1,3 @@
-
 /**
  * Name: Matthew Klug (klug)
  * Course: CSCI-241 - Computer Science I
@@ -109,4 +108,3 @@ public class ClockTime
         return isEqual;
     }
     }
-
